@@ -19,7 +19,7 @@ export default function Navbar() {
                 </div>
             </div>
             <div className="flex flex-col items-center md:items-end mt-4 md:mt-0">
-                <a href="https://drive.google.com/file/d/1FNTv6Z2-rJbeI2bcxlwtvHG8AK42RLyE/view?usp=drive_link" target="_blank">
+                <a href="https://drive.google.com/file/d/1cm6qWscEropJUcJTklB2Kw0WNYlmZAAD/view?usp=drive_link" target="_blank">
                     <Button variant="outline" className="font-medium rounded-3xl shadow-lg group border bg-black shadow-sky-300/50 hover:shadow-sky-500 hover:bg-black hover:text-white mb-4 md:mb-0">
                         <p className="mr-1">Checkout my CV here!</p>
                         <ArrowUpRight />
