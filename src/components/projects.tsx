@@ -89,13 +89,13 @@ export default function Projects() {
                 </CardHeader>
                 <CardContent>
                     <a href="https://github.com/jay-madane/pixelcart-shop" target="_blank">
-                        <Button variant="secondary" className="mr-4 rounded-xl">
+                        <Button variant="secondary" className="md:mr-4 rounded-xl m-1">
                             <Github type="github-white" />
                             Website Repo
                         </Button>
                     </a>
                     <a href="https://github.com/jay-madane/pixelcart-admin" target="_blank">
-                        <Button variant="secondary" className="mr-4 rounded-xl">
+                        <Button variant="secondary" className="md:mr-4 rounded-xl m-1">
                             <Github type="github-white" />
                             Admin Repo
                         </Button>
