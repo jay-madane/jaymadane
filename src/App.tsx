@@ -9,7 +9,7 @@ import TechStack from "./components/tech-stack";
 
 export default function App() {
   return (
-    <main className="w-full overflow-auto font-sans flex h-full justify-center bg-gradient-to-b from-sky-950 to-zinc-950 to-20%">
+    <main className="w-full font-sans flex h-full justify-center" style={{ background: "radial-gradient(ellipse 80% 70% at 50% -15%, rgba(175, 134, 222, 0.2), rgba(0, 0, 0, 0)), #121212" }}>
       <div className="lg:max-w-4xl overflow-hidden w-full">
         <Navbar />
         <About />

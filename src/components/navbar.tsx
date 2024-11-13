@@ -13,14 +13,14 @@ export default function Navbar() {
                     />
                 </div>
                 <div className="text-center md:text-left">
-                    <h1 className="text-2xl md:text-3xl font-bold">Jay Kiran Madane</h1>
-                    <h4 className="font-semibold text-zinc-400 text-lg md:text-xl">B.Tech Undergrad</h4>
-                    <h4 className="font-semibold text-zinc-400">JSPM's Rajarshi Shahu College of Engineering</h4>
+                    <h1 className="text-zinc-100 text-4xl md:text-4xl font-bold">Jay Kiran Madane</h1>
+                    <h4 className="font-semibold text-zinc-300 text-lg md:text-xl">B.Tech Undergrad</h4>
+                    <h4 className="font-semibold text-zinc-300">JSPM's Rajarshi Shahu College of Engineering</h4>
                 </div>
             </div>
             <div className="flex flex-col items-center md:items-end mt-4 md:mt-0">
                 <a href="https://drive.google.com/file/d/1cm6qWscEropJUcJTklB2Kw0WNYlmZAAD/view?usp=drive_link" target="_blank">
-                    <Button variant="outline" className="font-medium rounded-3xl shadow-lg group border bg-black shadow-sky-300/50 hover:shadow-sky-500 hover:bg-black hover:text-white mb-4 md:mb-0">
+                    <Button variant="outline" className="font-medium rounded-3xl shadow-lg group border bg-black shadow-purple-300/50 hover:shadow-purple-300 hover:bg-black hover:text-white mb-4 md:mb-0">
                         <p className="mr-1">Checkout my CV here!</p>
                         <ArrowUpRight />
                     </Button>
